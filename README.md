@@ -22,7 +22,7 @@ Criar um sistema que alimenta o campeonato de futebol mais prestigiado da Europa
 ```bash
 /src
 ├── /controllers       # Controladores que processam as requisições HTTP
-├── /data              # Arquivos JSON (fontes de dados)
+├── /database          # Arquivos JSON (fontes de dados)
 ├── /models            # Interfaces e tipos TypeScript
 ├── /repositories      # Acesso ao banco de dados (JSON)
 ├── /services          # Regras de negócio e lógica da aplicação
